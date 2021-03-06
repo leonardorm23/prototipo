@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: rgb(234, 235, 238);
+}
+
+a{
+    color: rgb(22, 22, 22);
+}
+
+img{
+    opacity: 0.8;
+}
+
+.listaMenu{
+    display: flex;
+    justify-content:flex-end;
+}
+
+.carouselStyle{
+    height: 680px;
+}
+
+h1{
+    color: rgb(245 223 77);
+}
+
+.letter{
+    color: rgb(245 223 77);
+    font-size: 25px;
+}
+
+.bannerInfo{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: auto;
+}
